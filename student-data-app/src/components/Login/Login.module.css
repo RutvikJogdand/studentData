@@ -1,0 +1,19 @@
+.ContainerDiv{
+    width: 45%;
+    padding: 10px;
+    margin: 100px auto;
+}
+
+.ContainerDiv > input{
+    margin: 10px;
+}
+
+.ContainerDiv > button{
+    background-color: #7F3E98;
+    color: white
+}
+
+.ContainerDiv > button:hover{
+    background-color: #ba62dd;
+    color: white;
+}
